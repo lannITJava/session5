@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+div{
+    border: 1px solid gray;
+    border-radius: 5px;
+    margin: 10px;
+   
+}
+.ra1{
+    padding: 15px ;
+    background-color: rgb(164, 203, 223);
+    float: left;
+    margin-right: 540px;
+}
+.ra2{
+    clear: left;
+    padding: 15px;
+    line-height: 20px;
+
+}
+.ra3{
+     font-size: 16px;
+     padding: 15px 0;
+     color: rgb(13, 94, 144);
+     background-color: rgb(164, 203, 223);
+}
+.ra2>span{
+    color: rgb(211, 78, 78);
+}
+.ra4{
+    float: left;
+    margin-right: 540px;
+    padding: 15px;
+}
+.ra5{
+    padding: 15px 0;
+}

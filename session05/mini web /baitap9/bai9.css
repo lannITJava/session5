@@ -1,0 +1,49 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.ra1{
+    border: 1px solid gray;
+    border-radius: 5px;
+    background-color: rgb(235, 236, 237);
+    margin: 10px 20px;
+    
+}
+.ra2{
+    width: 20px;
+    height: 20px;
+    border: 1px solid blue;
+    background-color: blue;
+    border-radius: 5px;
+    position: absolute;
+    top: 20px;
+    left: 30px;
+    
+}
+.ra3, .ra4{
+    margin-left: 50px;
+    float: left;
+    padding: 10px 0;
+    
+}
+.ra5{
+    padding: 10px 0;
+    font-size: large;
+    color: gray;
+}
+.ra3{
+    margin-right: 420px;
+    color: gray;
+}
+.ra4{
+    margin-right: 30px;
+    color: gray;
+}
+.ra6{
+    padding: 10px 10px 15px;
+}
+

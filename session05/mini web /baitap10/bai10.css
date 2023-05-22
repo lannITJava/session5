@@ -1,0 +1,37 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.div1{
+    width: 400px;
+    height: 700px;
+    border: 1px solid gray;
+    border-radius: 200px 200px 20px 20px;
+    margin: 30px auto;
+}
+.div2{
+    width: 360px;
+    height: 365px;
+    background-color: rgb(138, 16, 16);
+    border: 1px solid rgb(138, 16, 16);
+    border-radius: 200px 200px 40px 40px;
+    margin: 20px auto;
+}
+.div2>img{
+    width: 100%;
+    height: auto;
+    padding-top: 5px;
+}
+div>p{
+    line-height: 40px;
+    padding-left: 20px;
+}
+.ra1{
+    margin: 50px 0;
+    font-size: 30px;
+    font-weight: 700;
+}

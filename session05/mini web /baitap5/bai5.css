@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+
+}
+div{
+    border: 1px solid gray;
+    border-radius: 5px;
+    width: 100%;
+    height: auto;
+    margin: 10px;
+}
+.ra1{
+    padding: 10px 0;
+    background-color: aliceblue;
+}
+h5{
+    padding: 20px 0 15px;
+    font-size: 20px;
+}
+.ra2{
+    padding-bottom: 15px;
+}
+.ra3>button{
+    padding: 10px 15px;
+    background-color: rgb(37, 133, 212);
+    border: none;
+    border-radius: 5px;
+    margin-bottom: 20px;
+
+}
+.ra4{
+    padding: 10px 0;
+    background-color: aliceblue;
+}
